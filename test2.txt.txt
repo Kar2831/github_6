@@ -1,1 +1,1 @@
-This is test2.txt from main branch
+test2.txt from main branch
